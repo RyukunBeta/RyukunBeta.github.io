@@ -16,3 +16,48 @@
 .container-1oAagU {
     background-color: transparent;
 }
+
+
+/* Background Shading */
+
+.layers-1YQhyW {
+    background-color: rgba(0,0,0,.6);
+}
+
+.root-2s1-ri>* {
+    background-color: transparent;
+}
+
+.theme-dark .perksModal-CLcR1c {
+    background-color: transparent;
+}
+
+.withTagAsButton-OsgQ9L:hover, 
+.withTagless-10ooWt:hover {
+  background-color: rgba(0, 0, 0, .3);
+  border-radius: 4px;
+  border: 1px solid #912;
+  color: white;
+}
+
+.preview-3SR4Rd {
+    color: white;
+}
+
+.previewContainer-1GxmBJ {
+    background-color: #912;
+}
+
+.theme-light .messageContainer-3a6gLR {
+    background-color: #181818;
+}
+
+.text-md-normal-304U3g,
+.text-xs-normal-3SiVjE,
+.text-sm-normal-3Zj3Iv {
+  color: white !important;
+}
+
+.background-3X6N7I {
+    background-color: transparent;
+}
